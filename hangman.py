@@ -46,7 +46,7 @@ def draw(allowed_errors):
         
     elif allowed_errors == 5:
         
-        print("   _____ \n"
+        print(  "   _____ \n"
                 "  |     | \n"
                 "  |     \n"
                 "  |      \n"
